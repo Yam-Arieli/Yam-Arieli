@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+<body>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7012184806948016128" height="1721" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+</body>
+</html>
