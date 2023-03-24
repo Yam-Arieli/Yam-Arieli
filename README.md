@@ -20,13 +20,13 @@ I'm a self-learner who believe that any skill is achievable with motivation and 
         </a>
      </td>
     <td>
-        <a href="RC Car ESP32.gif">
-           <img alt="Qries" src="ESP32.jpg" height="300">
+        <a href="https://www.linkedin.com/posts/yam-arieli_computerscience-project-electronics-activity-7012184953354371073-6G_E">
+           <img alt="Qries" src="RC Car ESP32 b.gif" height="300">
         </a>
      </td>
         <td>
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7028088621962260481">
-           <img alt="Qries" src="interactive map.gif" width="300">
+           <img alt="Qries" src="interactive map.gif" width="400">
         </a>
      </td>
   </tr>
