@@ -1,5 +1,5 @@
 # Yam Arieli 😎
-**`Software Engineer | Data Analyst | Computer Science Student`**
+**`Software Engineer | Data Mining | Computer & Data Science Student`**
 
 >Data analyst and Software engineer with significant practice in data analysis and passion for machine learning.<br>
 A dean's list awarded Experienced with big projects leading and collaboration with colleagues.<br>
