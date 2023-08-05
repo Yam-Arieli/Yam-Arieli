@@ -9,7 +9,7 @@ I'm a self-learner who believe that any skill is achievable with motivation and 
 ## Check out my latest article on Medium 👇
 <!---->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@arieliyam111/0">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@arieliyam111/0" alt="Recent Article 0" width=600> 
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@arieliyam111/0" alt="Recent Article 0" width=800> 
 </a>
 
 ## Check out my projects from outside github 👇
