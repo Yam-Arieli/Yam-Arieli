@@ -21,7 +21,7 @@ I'm a self-learner who believe that any skill is achievable with motivation and 
   </tr>
   <tr>
       <td>
-        <a href="https://www.linkedin.com/posts/yam-arieli_computerscience-project-electronics-activity-7012184953354371073-6G_E/">
+        <a href="https://www.kaggle.com/code/yamarieli/quantitative-ordinal-categorical-houses-prediction">
            <img alt="Qries" src="area_year_price.gif" width="235" overflow: hidden;>
         </a>
      </td>
