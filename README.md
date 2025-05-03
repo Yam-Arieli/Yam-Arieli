@@ -1,9 +1,6 @@
 # Yam Arieli 😎
-**`Software Engineer | Data Mining | Computer & Data Science Student`**
-
->Data Mining Analyst and Software Engineer with significant practice in data analysis and passion for machine learning.<br>
-A dean's list awarded Experienced with big projects leading and collaboration with colleagues.<br>
-I'm a self-learner who believe that any skill is achievable with motivation and commitment.
+**`MSc Student in Computer Science at The Hebrew University of Jerusalem`**
+> <a href="https://www.linkedin.com/in/yam-arieli/">My Linkedin</a>
 <!---->
 
 ## Check out my latest article on Medium 👇
