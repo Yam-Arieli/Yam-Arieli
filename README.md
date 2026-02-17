@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a graduate student specializing in **learning dynamics** and **transfer learning** applied to single-cell RNA sequencing (PBMC). I am passionate about the intersection of data science and biology.
+>I am a graduate student specializing in **learning dynamics** and **transfer learning** applied to single-cell RNA sequencing.
 
 ---
 
@@ -23,33 +23,10 @@ I am a graduate student specializing in **learning dynamics** and **transfer lea
 <br>
 
 ### 🚀 Projects Outside Github
-
-<table width="100%">
-  <tr>
-    <th width="33%">Houses' Price Prediction<br>Kaggle 🏠</th>
-    <th width="33%">RC Car with ESP32 🏎️</th>
-    <th width="33%">Interactive Maps<br>Python Tutorial 🗺️</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/code/yamarieli/quantitative-ordinal-categorical-houses-prediction">
-        <img src="area_year_price.gif" alt="House Prediction GIF" width="100%">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/posts/yam-arieli_computerscience-project-electronics-activity-7012184953354371073-6G_E">
-        <img src="RC Car ESP32 b.gif" alt="RC Car GIF" width="100%">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7028088621962260481">
-        <img src="interactive map.gif" alt="Interactive Map GIF" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
+#### RC Car with ESP32 🏎️
+<a href="https://www.linkedin.com/posts/yam-arieli_computerscience-project-electronics-activity-7012184953354371073-6G_E">
+  <img src="RC Car ESP32 b.gif" alt="RC Car GIF" width="30%">
+</a>
 
 <div align="center">
 
