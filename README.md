@@ -25,11 +25,10 @@
 ### 🚀 Projects Outside Github
 #### RC Car with ESP32 🏎️
 <a href="https://www.linkedin.com/posts/yam-arieli_computerscience-project-electronics-activity-7012184953354371073-6G_E">
-  <img src="RC Car ESP32 b.gif" alt="RC Car GIF" width="30%">
+  <img src="RC Car ESP32 cropped.gif" alt="RC Car GIF" width="30%">
 </a>
 
 <div align="center">
-
-> 🔍💥 **Let's explore Data and ML together!** ✌️
+<br>
 
 </div>
